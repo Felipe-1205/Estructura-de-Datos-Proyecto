@@ -1,0 +1,6 @@
+avanzar,3,km
+girar,0.3,rad
+fotografiar,duna,'es es muy bonita'
+avanzar,3,cm
+girar,-0.5,grd
+avanzar,2,m

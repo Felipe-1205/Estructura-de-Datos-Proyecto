@@ -1,0 +1,8 @@
+elemento1,20,m,4,8
+elemento2,123,cm,5,87
+elemento3,45,m,3,12
+elemento4,78,km,154,789
+elemento5,15,km,0,0
+elemento6,2,m,15,12
+elemento7,5156,m,8,8
+elemento8,8,cm,5,7
